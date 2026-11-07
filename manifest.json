@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "lang": "de",
+      "variant": null,
+      "version": "2026.11.07",
+      "minAppVersion": 1,
+      "url": "https://github.com/ikovacs85/conjugation-catalog/releases/download/packs-de-2026.11.07/pack-de-2026.11.07.sqlite.gz",
+      "sizeBytes": 5140896,
+      "uncompressedBytes": 17920000,
+      "sha256": "50f1cea9d4943cd3465bc27d0531bd00efa685ff971b766b9ffe34d910c4a85f",
+      "uncompressedSha256": "7ce7faaf3026c40cae4877eb421ee2394c139d077ff224a5aed059cc6808e2d4",
+      "verbs": 1544,
+      "tenses": 17
+    },
+    {
+      "lang": "es",
+      "variant": null,
+      "version": "2026.11.07",
+      "minAppVersion": 1,
+      "url": "https://github.com/ikovacs85/conjugation-catalog/releases/download/packs-es-2026.11.07/pack-es-2026.11.07.sqlite.gz",
+      "sizeBytes": 7544755,
+      "uncompressedBytes": 23724032,
+      "sha256": "3b51ef72099c5da1cdefdfeb47dabb2475caa5f0ae3b92cd658dc6a1c53b6f6f",
+      "uncompressedSha256": "5cb352e87b549d3a5d79356a39ad1aa9db72b3bdd4963e5c76f8fd6914035a26",
+      "verbs": 1545,
+      "tenses": 22
+    },
+    {
+      "lang": "fr",
+      "variant": null,
+      "version": "2026.11.07",
+      "minAppVersion": 1,
+      "url": "https://github.com/ikovacs85/conjugation-catalog/releases/download/packs-fr-2026.11.07/pack-fr-2026.11.07.sqlite.gz",
+      "sizeBytes": 6189900,
+      "uncompressedBytes": 18464768,
+      "sha256": "0e6d720dec8464a0373439ec26eb5737287759b51e7084442fff04d7c41bbfd2",
+      "uncompressedSha256": "0a93cb586e71195e0fcb06fff50c07969fa8c9794899a1501b54a62f92ec1f02",
+      "verbs": 1582,
+      "tenses": 21
+    }
+  ],
+  "models": []
+}
