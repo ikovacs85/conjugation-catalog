@@ -52,6 +52,32 @@
       "uncompressedSha256": "246d7ce942aebabe245f94a90b19f1c671350b81b4e38b529d025c57487fe75d",
       "verbs": 1546,
       "tenses": 17
+    },
+    {
+      "lang": "pt",
+      "variant": "BR",
+      "version": "2026.11.16",
+      "minAppVersion": 1,
+      "url": "https://github.com/ikovacs85/conjugation-catalog/releases/download/packs-pt-BR-2026.11.16/pack-pt-BR-2026.11.16.sqlite.gz",
+      "sizeBytes": 6155227,
+      "uncompressedBytes": 18440192,
+      "sha256": "00f3926a5f8db297a994f0e7d45ad9c09593045d589993ca2fac280a49a0afd4",
+      "uncompressedSha256": "0d9a1164629821c7cd8a2acaba0e5a7c20481b30debdb06ad4385e1d4379c458",
+      "verbs": 1500,
+      "tenses": 21
+    },
+    {
+      "lang": "pt",
+      "variant": "PT",
+      "version": "2026.11.16",
+      "minAppVersion": 1,
+      "url": "https://github.com/ikovacs85/conjugation-catalog/releases/download/packs-pt-PT-2026.11.16/pack-pt-PT-2026.11.16.sqlite.gz",
+      "sizeBytes": 6148200,
+      "uncompressedBytes": 18436096,
+      "sha256": "366f8b2beea09e769ca284707fd8290e1bae1a371022f304ff34da1c74675335",
+      "uncompressedSha256": "2090bf549e8797e74adbeeb723746f06de4c097cbbf9652c605369265f5f34c2",
+      "verbs": 1500,
+      "tenses": 21
     }
   ],
   "models": []
