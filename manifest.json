@@ -39,6 +39,19 @@
       "uncompressedSha256": "0a93cb586e71195e0fcb06fff50c07969fa8c9794899a1501b54a62f92ec1f02",
       "verbs": 1582,
       "tenses": 21
+    },
+    {
+      "lang": "it",
+      "variant": null,
+      "version": "2026.11.16",
+      "minAppVersion": 1,
+      "url": "https://github.com/ikovacs85/conjugation-catalog/releases/download/packs-it-2026.11.16/pack-it-2026.11.16.sqlite.gz",
+      "sizeBytes": 5828409,
+      "uncompressedBytes": 18092032,
+      "sha256": "cc8f608b7c76b02da74883fdfca4da02bcec9fae62b2cc80b5dd7bfca16a3c8f",
+      "uncompressedSha256": "246d7ce942aebabe245f94a90b19f1c671350b81b4e38b529d025c57487fe75d",
+      "verbs": 1546,
+      "tenses": 17
     }
   ],
   "models": []
