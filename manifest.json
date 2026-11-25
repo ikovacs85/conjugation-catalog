@@ -56,14 +56,14 @@
     {
       "lang": "pt",
       "variant": "BR",
-      "version": "2026.11.16",
+      "version": "2026.11.25",
       "minAppVersion": 1,
-      "url": "https://github.com/ikovacs85/conjugation-catalog/releases/download/packs-pt-BR-2026.11.16/pack-pt-BR-2026.11.16.sqlite.gz",
-      "sizeBytes": 6155227,
-      "uncompressedBytes": 18440192,
-      "sha256": "00f3926a5f8db297a994f0e7d45ad9c09593045d589993ca2fac280a49a0afd4",
-      "uncompressedSha256": "0d9a1164629821c7cd8a2acaba0e5a7c20481b30debdb06ad4385e1d4379c458",
-      "verbs": 1500,
+      "url": "https://github.com/ikovacs85/conjugation-catalog/releases/download/packs-pt-BR-2026.11.25/pack-pt-BR-2026.11.25.sqlite.gz",
+      "sizeBytes": 6537251,
+      "uncompressedBytes": 19611648,
+      "sha256": "525b4c603447433ed1aa85c038af3af375189380426bb6f7bb8039e72158dd08",
+      "uncompressedSha256": "1996b7ffd0c6a1e841c5daa108a9fb2931c783f91cd4c4ae068130b97e0159ce",
+      "verbs": 1547,
       "tenses": 21
     },
     {
